@@ -38,10 +38,10 @@ namespace SchoolManagementSys.Admin
             try
             {
                 string classVal = ddlClass.SelectedItem.Text;
-                DataTable dt = fn.Fetch("Select *  from  Subject where ClassId = '" + ddlClass.SelectedItem.Value + "', SubjectName = '"+txtSubject.Text.Trim() + "')";
+                DataTable dt = fn.Fetch("Select *  from  Subject where ClassId = '" + ddlClass.SelectedItem.Value + "' and SubjectName = N'"+txtSubject.Text.Trim() + "'");
                 if (dt.Rows.Count == 0)
                 {
-                    string query = "Insert into Fees values('" + ddlClass.SelectedItem.Value + "' ,'" + txtSubject.Text.Trim() + "')";
+                    string query = "Insert into Subject values('" + ddlClass.SelectedItem.Value + "' ,N'" + txtSubject.Text.Trim() + "')";
                     fn.Query(query);
                     lblMsg.Text = "Inserted Succesffully!!!";
                     lblMsg.CssClass = "alert alert-success";
@@ -98,10 +98,11 @@ namespace SchoolManagementSys.Admin
             try
             {
                 GridViewRow row = GridView1.Rows[e.RowIndex];
-                int feesId = Convert.ToInt32(GridView1.DataKeys[e.RowIndex].Values[0]);
-                string feeAmt = (row.FindControl("TextBox1") as TextBox).Text;
-                fn.Query("Update Fees set FeesAmount = '" + feeAmt.Trim() + "' where FeesId = '" + feesId + "' ");
-                lblMsg.Text = "Fees Update Succesffully!!!";
+                int subjId = Convert.ToInt32(GridView1.DataKeys[e.RowIndex].Values[0]);
+                string classId = ((DropDownList)GridView1.Rows[e.RowIndex].Cells[2].FindControl("DropDownList1")).SelectedValue;
+                string subjName = (row.FindControl("TextBox1") as TextBox).Text;
+                fn.Query("Update Subject set ClassId = '" + classId + "', SubjectName = N'"+ subjName + "' where SubjectId = '" + subjId + "' ");
+                lblMsg.Text = "Subject Update Succesffully!!!";
                 lblMsg.CssClass = "alert alert-success";
                 GridView1.EditIndex = -1;
                 GetSubject();

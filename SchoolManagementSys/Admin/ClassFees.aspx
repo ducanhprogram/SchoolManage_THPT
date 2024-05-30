@@ -47,16 +47,16 @@
          <div class="row mb-3 mr-lg-5 ml-lg-5 mt-md-5">
 
               <div class="col-md-6">
-                 <label style="font-size: 20px" for="ddlClass">Class</label>
+                 <label style="font-size: 20px" for="ddlClass">Lớp</label>
                   <asp:DropDownList ID="ddlClass" runat="server" CssClass="form-control" ></asp:DropDownList>
-                  <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Class is required."
+                  <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Vui lòng chọn lớp học."
                       ControlToValidate="ddlClass" InitialValue="Select Class" Display="Dynamic" SetFocusOnError="True" ForeColor="Red">
                   </asp:RequiredFieldValidator>
 
             </div>
 
              <div class="col-md-6">
-                 <label style="font-size: 20px" for="txtFeeAmounts">Fees(Annual)</label>
+                 <label style="font-size: 20px" for="txtFeeAmounts">Học phí(Hàng Năm)</label>
                  <asp:TextBox ID="txtFeeAmounts" runat="server" CssClass="form-control" placeholder="Enter Fees Name" TextMode="Number" required >
 
                  </asp:TextBox>
@@ -87,13 +87,13 @@
                            <%-- <asp:BoundField DataField="FeesId" HeaderText="FeesId" />
                             <asp:BoundField DataField="ClassId" HeaderText="ClassId" />
                             <asp:BoundField DataField="FeesAmount" HeaderText="FeesAmount" />--%>
-                            <asp:BoundField DataField="Sr.No" HeaderText="Sr.No" ReadOnly="True">
+                            <asp:BoundField DataField="Sr.No" HeaderText="Số thứ tự" ReadOnly="True">
                                 <ItemStyle HorizontalAlign="Center" />
                             </asp:BoundField>
-                            <asp:BoundField DataField="ClassName" HeaderText="Class" ReadOnly="True">
+                            <asp:BoundField DataField="ClassName" HeaderText="Lớp" ReadOnly="True">
                                 <ItemStyle HorizontalAlign="Center"></ItemStyle>
                             </asp:BoundField>
-                            <asp:TemplateField HeaderText="Fees(Annual)">
+                            <asp:TemplateField HeaderText="Học phí(Hàng Năm)">
                                 <EditItemTemplate>
                                     <asp:TextBox ID="TextBox1" runat="server" Text='<%# Eval("FeesAmount") %>' CssClass="form-control"></asp:TextBox>
                                 </EditItemTemplate>

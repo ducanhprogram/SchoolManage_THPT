@@ -1,4 +1,4 @@
-﻿<asp:TemplateField</asp:BoundField>Language="C#" MasterPageFile="~/Admin/AdminMst.Master" AutoEventWireup="true" CodeBehind="Subject.aspx.cs" Inherits="SchoolManagementSys.Admin.Subject" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Admin/AdminMst.Master" AutoEventWireup="true" CodeBehind="Subject.aspx.cs" Inherits="SchoolManagementSys.Admin.Subject" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -41,7 +41,7 @@
          <div>
              <asp:Label ID="lblMsg" runat="server"></asp:Label>
          </div>
-         <h3 class="text-center">New Subject</h3>
+         <h3 class="text-center">Thêm Môn Học</h3>
 
        <%--margin-bottom--%>
          <div class="row mb-3 mr-lg-5 ml-lg-5 mt-md-5">
@@ -49,7 +49,7 @@
               <div class="col-md-6">
                  <label style="font-size: 20px" for="ddlClass">Class</label>
                   <asp:DropDownList ID="ddlClass" runat="server" CssClass="form-control" ></asp:DropDownList>
-                  <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Class is required."
+                  <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Vui lòng chọn lớp học."
                       ControlToValidate="ddlClass" InitialValue="Select Class" Display="Dynamic" SetFocusOnError="True" ForeColor="Red">
                   </asp:RequiredFieldValidator>
 
@@ -77,15 +77,24 @@
                         OnPageIndexChanging="GridView1_PageIndexChanging" AllowPaging="true" PageSize="4" OnRowCancelingEdit="GridView1_RowCancelingEdit" DataKeyNames="SubjectId"
                         OnRowEditing="GridView1_RowEditing" OnRowUpdating="GridView1_RowUpdating">
                         <Columns>
-                           <%-- <asp:BoundField DataField="FeesId" HeaderText="FeesId" />
-                            <asp:BoundField DataField="ClassId" HeaderText="ClassId" />
-                            <asp:BoundField DataField="FeesAmount" HeaderText="FeesAmount" />--%>
+                        
                             <asp:BoundField DataField="Sr.No" HeaderText="Sr.No" ReadOnly="True">
                                 <ItemStyle HorizontalAlign="Center" />
                             </asp:BoundField>
-                            <asp:BoundField  HeaderText="Class" >
-                                <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource"></asp:DropDownList>
-                            </asp:BoundField>
+                            <asp:TemplateField HeaderText="Class" >
+
+                                <EditItemTemplate>
+                                <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="ClassName" DataValueField="ClassId" SelectedValue='<%# Eval("ClassId") %>' CssClass="form-control"></asp:DropDownList>
+                                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:SchoolCS %>" SelectCommand="SELECT * FROM [Class]"></asp:SqlDataSource>
+
+                                 </EditItemTemplate>
+
+                                <ItemTemplate>
+                                    <asp:Label ID="Label2" runat="server" Text='<%# Eval("ClassName") %>'></asp:Label>
+                                </ItemTemplate>
+                                <ItemStyle HorizontalAlign="Center"/>
+                            </asp:TemplateField>
+
                             <asp:TemplateField HeaderText="Subject">
                                 <EditItemTemplate>
                                     <asp:TextBox ID="TextBox1" runat="server" Text='<%# Eval("SubjectName") %>' CssClass="form-control"></asp:TextBox>

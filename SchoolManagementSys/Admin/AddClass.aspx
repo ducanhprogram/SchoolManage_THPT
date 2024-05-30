@@ -44,8 +44,8 @@
         <%--margin-bottom--%>
           <div class="row mb-3 mr-lg-5 ml-lg-5 mt-md-5">
               <div class="col-md-6">
-                  <label style="font-size: 20px" for="txtClass">Class Name</label>
-                  <asp:TextBox ID="txtClass" runat="server" CssClass="form-control" placeholder="Enter Class Name" required ></asp:TextBox>
+                  <label style="font-size: 20px" for="txtClass">Tên lớp</label>
+                  <asp:TextBox ID="txtClass" runat="server" CssClass="form-control" placeholder="Nhập tên lớp..." required ></asp:TextBox>
               </div>
           </div>
 
