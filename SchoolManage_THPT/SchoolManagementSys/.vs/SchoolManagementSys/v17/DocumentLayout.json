@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\teacher\\marksdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\teacher\\marksdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\markdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\markdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\marksdetailusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\marksdetailusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\adminmst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\adminmst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\marksdetailusercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\marksdetailusercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\admin\\empattendancedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\empattendancedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\teacher\\teachermst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\teacher\\teachermst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\markdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\markdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\models\\commonfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\models\\commonfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\classfees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\classfees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\admin\\marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|c:\\users\\ducanh\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\expensedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\expensedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\empattendancedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\empattendancedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\employeeattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\employeeattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\expense.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\expense.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\teachersubject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\teachersubject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\teachersubject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\teachersubject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\employeeattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\employeeattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\addclass.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\addclass.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\schoolmanagementsys\\admin\\subject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0861F81E-B7FB-4415-9279-977102ED5A23}|SchoolManagementSys\\SchoolManagementSys.csproj|solutionrelative:schoolmanagementsys\\admin\\subject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonFn.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Models\\CommonFn.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Models\\CommonFn.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Models\\CommonFn.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Models\\CommonFn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:41:04.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMst.Master",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AdminMst.Master",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\AdminMst.Master",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AdminMst.Master",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\AdminMst.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:41:59.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherMst.Master",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Teacher\\TeacherMst.Master",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Teacher\\TeacherMst.Master",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Teacher\\TeacherMst.Master",
+              "RelativeToolTip": "SchoolManagementSys\\Teacher\\TeacherMst.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T04:37:55.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarkDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\MarkDetails.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\MarkDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\MarkDetails.aspx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\MarkDetails.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:54:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarksDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Teacher\\MarksDetails.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Teacher\\MarksDetails.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Teacher\\MarksDetails.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Teacher\\MarksDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T05:52:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarksDetailUserControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\MarksDetailUserControl.ascx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\MarksDetailUserControl.ascx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\MarksDetailUserControl.ascx",
+              "RelativeToolTip": "SchoolManagementSys\\MarksDetailUserControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-06T05:44:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarksDetailUserControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\MarksDetailUserControl.ascx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\MarksDetailUserControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\MarksDetailUserControl.ascx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\MarksDetailUserControl.ascx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:47:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpAttendanceDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T14:35:04.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarkDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\MarkDetails.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\MarkDetails.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\MarkDetails.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\MarkDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:38:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassFees.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\ClassFees.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\ClassFees.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\ClassFees.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\ClassFees.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:38:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Marks.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Marks.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\Marks.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Marks.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\Marks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T09:19:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\AdminHome.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AdminHome.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T04:10:59.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpAttendanceDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\EmpAttendanceDetails.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:07:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Content\\styles.css",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Content\\styles.css",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Content\\styles.css",
+              "RelativeToolTip": "SchoolManagementSys\\Content\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T05:16:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\ExpenseDetails.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\ExpenseDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\ExpenseDetails.aspx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\ExpenseDetails.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:51:29.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherSubject.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\TeacherSubject.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\TeacherSubject.aspx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\TeacherSubject.aspx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\TeacherSubject.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:09:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Expense.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Expense.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\Expense.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Expense.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\Expense.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:40:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeAttendance.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmployeeAttendance.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\EmployeeAttendance.aspx.cs",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmployeeAttendance.aspx.cs",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\EmployeeAttendance.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:09:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherSubject.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\TeacherSubject.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\TeacherSubject.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\TeacherSubject.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\TeacherSubject.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:40:25.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Student.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\Student.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Student.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\Student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:38:44.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddClass.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AddClass.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\AddClass.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\AddClass.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\AddClass.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T03:44:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeAttendance.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmployeeAttendance.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\EmployeeAttendance.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\EmployeeAttendance.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\EmployeeAttendance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T03:42:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Web.config",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Web.config",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Web.config",
+              "RelativeToolTip": "SchoolManagementSys\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T18:41:34.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Subject.aspx",
+              "DocumentMoniker": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Subject.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSys\\Admin\\Subject.aspx",
+              "ToolTip": "C:\\Users\\ducanh\\source\\repos\\SchoolManagementSys\\SchoolManagementSys\\Admin\\Subject.aspx",
+              "RelativeToolTip": "SchoolManagementSys\\Admin\\Subject.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T18:38:14.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
